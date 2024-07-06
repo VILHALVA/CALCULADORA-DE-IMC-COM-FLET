@@ -29,12 +29,12 @@ Este projeto é uma aplicação de interface gráfica desenvolvida em Python uti
    - Utiliza o layout responsivo da Flet para organizar os elementos de forma adequada em diferentes tamanhos de tela.
 
 ## COMO USAR?
-1. **Instalação da Biblioteca Flet:**
-   - Certifique-se de ter o Python instalado em seu sistema.
-   - Instale a biblioteca Flet utilizando o seguinte comando no terminal:
-     ```sh
-     pip install flet
-     ```
+1. **Instalando as dependências:**
+   - Antes de executar o aplicativo, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` no diretório: `CODIGO`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   - Isso instruirá o pip a ler o arquivo requirements.txt e instalar todas as dependências listadas.
 
 2. **Execução do Código:**
    - Execute o arquivo, no diretório `CODIGO`, usando o comando:
